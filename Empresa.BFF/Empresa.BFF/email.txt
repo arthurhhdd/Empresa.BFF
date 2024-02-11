@@ -1,0 +1,5 @@
+To: vendas@test.com
+Subject: Lead Accepted
+
+The lead for client: Fake Roberto with service description: 'Need 2 to paint aluminum windows' and quoted price: $50,01 has been accepted.
+

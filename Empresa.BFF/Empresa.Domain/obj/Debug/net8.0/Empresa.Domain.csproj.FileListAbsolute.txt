@@ -1,0 +1,11 @@
+C:\Users\dti Digital\Desktop\Empresa.BFF\Empresa.Domain\bin\Debug\net8.0\Empresa.Domain.deps.json
+C:\Users\dti Digital\Desktop\Empresa.BFF\Empresa.Domain\bin\Debug\net8.0\Empresa.Domain.dll
+C:\Users\dti Digital\Desktop\Empresa.BFF\Empresa.Domain\bin\Debug\net8.0\Empresa.Domain.pdb
+C:\Users\dti Digital\Desktop\Empresa.BFF\Empresa.Domain\obj\Debug\net8.0\Empresa.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dti Digital\Desktop\Empresa.BFF\Empresa.Domain\obj\Debug\net8.0\Empresa.Domain.AssemblyInfoInputs.cache
+C:\Users\dti Digital\Desktop\Empresa.BFF\Empresa.Domain\obj\Debug\net8.0\Empresa.Domain.AssemblyInfo.cs
+C:\Users\dti Digital\Desktop\Empresa.BFF\Empresa.Domain\obj\Debug\net8.0\Empresa.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dti Digital\Desktop\Empresa.BFF\Empresa.Domain\obj\Debug\net8.0\Empresa.Domain.dll
+C:\Users\dti Digital\Desktop\Empresa.BFF\Empresa.Domain\obj\Debug\net8.0\refint\Empresa.Domain.dll
+C:\Users\dti Digital\Desktop\Empresa.BFF\Empresa.Domain\obj\Debug\net8.0\Empresa.Domain.pdb
+C:\Users\dti Digital\Desktop\Empresa.BFF\Empresa.Domain\obj\Debug\net8.0\ref\Empresa.Domain.dll
