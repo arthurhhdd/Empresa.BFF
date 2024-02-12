@@ -16,7 +16,7 @@ Antes de começar, certifique-se de ter o seguinte instalado:
 
 Para instalar a aplicação, siga os passos abaixo:
 
-1. Clone o repositório para a sua máquina local usando `git clone https://github.com/your_username/Empresa.BFF.git`
+1. Clone o repositório para a sua máquina local usando `git clone https://github.com/arthurhhdd/Empresa.BFF.git`
 
 2. Navegue até o diretório do projeto usando `cd Empresa.BFF`
 
